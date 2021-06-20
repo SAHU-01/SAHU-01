@@ -1,8 +1,11 @@
 <h2> Hey there , Ankita Here !<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
-<img align='right' src="https://media.giphy.com/media/UHcOaIi6nuCwhoGRPz/giphy.gif" width="230">
+
 
 ###  Know me better  
+
+<img align='right' src="https://media.giphy.com/media/UHcOaIi6nuCwhoGRPz/giphy.gif" width="230">
+
 
 ```javascript
 const ankita = {
