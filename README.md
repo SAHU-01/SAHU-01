@@ -1,17 +1,15 @@
-### Hey there 👋 , Ankita here !!
-Welcome to my World!
+<h2> Hey there , Ankita Here !<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
-<!--
-**SAHU-01/SAHU-01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### <img src="https://media.giphy.com/media/5oaCraSuBkkvC6jSMk/giphy.gif" width="50"> Know me better  
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```javascript
+const ankita = {
+  pronouns: "she" | "her",
+  code: [Javascript, C++, HTML, CSS, UX/UI, Python, Java,Machine Learning],
+  techCommunities: {
+                        Content Lead: "Design&Code",
+                        Influencer: "Google Crowdsource",
+                      },
+ motto: "Bridge the rift between culture and Technology!"
+}
+```
