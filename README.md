@@ -14,6 +14,7 @@ const ankita = {
   techCommunities: {
                         Content Lead: "Design&Code",
                         Influencer: "Google Crowdsource",
+                        Campus Ambassador: "Microsoft Learn Student Ambassador",
                       },
  motto: "Bridge the rift between culture and Technology!"
 }
