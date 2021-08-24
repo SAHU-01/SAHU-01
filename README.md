@@ -19,3 +19,5 @@ const ankita = {
  motto: "Bridge the rift between culture and Technology!"
 }
 ```
+
+[![Ankita's GitHub stats](https://github-readme-stats.vercel.app/api?username=SAHU-01&show_icons=true&theme=radical)](https://github.com/SAHU-01)
