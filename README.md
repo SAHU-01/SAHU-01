@@ -24,3 +24,4 @@ const ankita = {
 ###  Check out my work!!
 
 [![Ankita's GitHub stats](https://github-readme-stats.vercel.app/api?username=SAHU-01&show_icons=true&theme=radical)](https://github.com/SAHU-01)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SAHU-01&theme=tokyonight)](https://github.com/SAHU-01/github-readme-streak-stats)
