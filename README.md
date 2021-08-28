@@ -49,3 +49,10 @@ const ankita = {
 - 📄 My Resume [Resume](https://drive.google.com/file/d/1oJV3DGVU3iyjvYJypstpuzVa9uf2wJbj/view?usp=sharing)
 
 - ⚡ Fun fact **I'm a Foodie!!**
+
+## 🤝 Connect
+
+[![Skill](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ankita-sahu-540920201/)
+[![Skill](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/AnkitaS36723410)
+[![Skill](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/zin1nia/)
+[![Skill](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SAHU-01)
