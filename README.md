@@ -38,14 +38,14 @@ const ankita = {
 
 - 👯 I’m looking to collaborate on **Vanilla Projects**
 
-- 👨‍💻 All of my projects are available at [https://github.com/SAHU-01?tab=repositories](https://github.com/SAHU-01?tab=repositories)
+- 👨‍💻 All of my projects are available at [Github](https://github.com/SAHU-01?tab=repositories)
 
-- 📝 I regularly write articles on [https://hashnode.com/@SAHU-01](https://hashnode.com/@SAHU-01)
+- 📝 I regularly write articles on [Hashnode](https://hashnode.com/@SAHU-01)
 
 - 💬 Ask me about **Front-end Web Development and UI/UX**
 
 - 📫 Contact me **[here](ankita.sahuof1@gmail.com)**
 
-- 📄 My Resume [https://drive.google.com/file/d/1oJV3DGVU3iyjvYJypstpuzVa9uf2wJbj/view?usp=sharing](https://drive.google.com/file/d/1oJV3DGVU3iyjvYJypstpuzVa9uf2wJbj/view?usp=sharing)
+- 📄 My Resume [Resume](https://drive.google.com/file/d/1oJV3DGVU3iyjvYJypstpuzVa9uf2wJbj/view?usp=sharing)
 
 - ⚡ Fun fact **I'm a Foodie!!**
