@@ -30,7 +30,7 @@ const ankita = {
 [![Ankita's github activity graph](https://activity-graph.herokuapp.com/graph?username=SAHU-01&theme=react-dark)](https://github.com/SAHU-01/github-readme-activity-graph)
 ![Ankita's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SAHU-01&layout=compact&theme=radical)
 
-## 🧔 About Me
+## :woman: About Me
 
 - 🔭 I’m currently working on [My Portfolio]()
 
