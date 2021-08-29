@@ -14,7 +14,8 @@ const ankita = {
   techCommunities: {
                         Content Lead: "Design&Code",
                         Influencer: "Google Crowdsource",
-                        Ambassador: "Microsoft Learn Student Ambassador(Beta),AngelHack,WomenTech Network"
+                        Ambassador: "Microsoft Learn Student Ambassador(Beta),
+                                     AngelHack,WomenTech Network"
                         Event Organizer:"Design&Code,Coders Evoke,Code with us"
                         Operational Lead:"Girlscript Rourkela"
                       },
