@@ -12,7 +12,7 @@ const ankita = {
   pronouns: "she" | "her",
   code: [Javascript, C++, HTML, CSS, UX/UI, Python, Java,Machine Learning],
   techCommunities: {
-                        Content Lead: "Design&Code",
+                        Web Developer: "DevScript",
                         Influencer: "Google Crowdsource",
                         Ambassador: "Microsoft Learn Student Ambassador(Beta),
                                      AngelHack,WomenTech Network"
