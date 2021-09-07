@@ -37,7 +37,7 @@ const ankita = {
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 👯 I’m looking to collaborate on **Vanilla Projects**
+- 👯 I’m looking to collaborate on **Front-end Web Devlopment Projects**
 
 - 👨‍💻 All of my projects are available at [Github](https://github.com/SAHU-01?tab=repositories)
 
