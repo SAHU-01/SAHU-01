@@ -10,7 +10,7 @@
 ```javascript
 const ankita = {
   pronouns: "she" | "her",
-  code: [Javascript, C++, HTML, CSS, UX/UI, Python, Java,Machine Learning],
+  code: [Javascript, C++, HTML, CSS, UX/UI, Python,React,Java,Machine Learning],
   techCommunities: {
                         Web Developer: "DevScript",
                         Influencer: "Google Crowdsource",
