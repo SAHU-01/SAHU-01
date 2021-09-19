@@ -19,7 +19,7 @@ const ankita = {
                         Event Organizer:"Design&Code,Coders Evoke,Code with us"
                         Operational Lead:"Girlscript Rourkela"
                       },
- motto: "Bridge the rift between culture and Technology!"
+ Motto: "Bridge the rift between culture and Technology!"
 }
 ```
 
