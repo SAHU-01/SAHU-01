@@ -27,7 +27,7 @@ const ankita = {
 ###  Check out my work!!
 
 [![Ankita's GitHub stats](https://github-readme-stats.vercel.app/api?username=SAHU-01&show_icons=true&theme=radical)](https://github.com/SAHU-01)
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=SAHU-01&theme=radical)](https://git.io/streak-stats)
+<!--[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=SAHU-01&theme=radical)](https://git.io/streak-stats)-->
 <!--[![Ankita's github activity graph](https://activity-graph.herokuapp.com/graph?username=SAHU-01&theme=react-dark)](https://github.com/SAHU-01/github-readme-activity-graph)-->
 ![Ankita's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SAHU-01&layout=compact&theme=radical)
 
