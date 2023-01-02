@@ -35,7 +35,7 @@ const ankita = {
 
 - 🔭 I’m currently working on [My Portfolio](https://sahu-01.github.io/My-Profile/)
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m currently polishing my **MERN Stack** skills
 
 - 👯 I’m looking to collaborate on **Front-end Web Devlopment Projects**
 
