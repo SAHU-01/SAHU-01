@@ -13,7 +13,6 @@ const ankita = {
   code: [Javascript,C++,HTML,CSS,UX/UI,Python,React,Tailwind CSS,Bootstrap,Java,Machine Learning,Sass],
   experience&techCommmunities: {
                         x.Software Engineer Intern (Digital Product School,UnternehmerTUM,batch-15 & 16), x.Frontend Intern (Bitbaza.io)
-                        Influencer: "Google Crowdsource",
                         Ambassador: "Microsoft Learn Student Ambassador(Beta),
                                      AngelHack,WomenTech Network"
                         Event Organizer:"Design&Code,Coders Evoke,Code with us"
