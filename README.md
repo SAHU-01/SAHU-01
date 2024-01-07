@@ -27,7 +27,7 @@ const ankita = {
 
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=SAHU-01&theme=radical)](https://git.io/streak-stats)
-[![Ankita's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SAHU-01&bg_color=17092e&color=9e4c98&line=ff428e&point=a8ffef&area=true&hide_border=true)
+![Ankita's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SAHU-01&bg_color=17092e&color=9e4c98&line=ff428e&point=a8ffef&area=true&hide_border=true)
 ![Ankita's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SAHU-01&layout=compact&theme=radical)
 
 ## :woman: About Me
@@ -36,7 +36,7 @@ const ankita = {
 
 - 🌱 I’m currently polishing my **MERN Stack** skills
 
-- 👯 I’m looking to collaborate on **Front-end Web Devlopment Projects**
+- 👯 I’m looking to collaborate on **Front-end Web Development Projects**
 
 - 👨‍💻 All of my projects are available at [Github](https://github.com/SAHU-01?tab=repositories)
 
