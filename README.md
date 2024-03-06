@@ -15,8 +15,6 @@ const ankita = {
                         x.Software Engineer Intern (Digital Product School,UnternehmerTUM,batch-15 & 16), x.Frontend Intern (Bitbaza.io)
                         Ambassador: "Microsoft Learn Student Ambassador(Beta),
                                      AngelHack,WomenTech Network"
-                        Event Organizer:"Design&Code,Coders Evoke,Code with us"
-                        Operational Lead:"Girlscript Rourkela"
                       },
  Motto: "To Bridge the rift between culture and Technology!"
 }
