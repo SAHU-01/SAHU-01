@@ -1,33 +1,5 @@
 <h2> Hi there,Ankita Here !<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
-
-
-###  Know me better  
-
-<img align='right' src="https://media.giphy.com/media/UHcOaIi6nuCwhoGRPz/giphy.gif" width="230">
-
-
-```javascript
-const ankita = {
-  pronouns: "she" | "her",
-  code: [Javascript,C++,HTML,CSS,UX/UI,Python,React,Tailwind CSS,Bootstrap,Java,Machine Learning,Sass],
-  experience&techCommmunities: {
-                        x.Software Engineer Intern (Digital Product School,UnternehmerTUM,batch-15 & 16), x.Frontend Intern (Bitbaza.io)
-                        Ambassador: "Microsoft Learn Student Ambassador(Beta),
-                                     AngelHack,WomenTech Network"
-                      },
- Motto: "To Bridge the rift between culture and Technology!"
-}
-```
-
-
-###  Check out my work!!
-
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=SAHU-01&theme=radical)](https://git.io/streak-stats)
-![Ankita's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SAHU-01&bg_color=17092e&color=9e4c98&line=ff428e&point=a8ffef&area=true&hide_border=true)
-![Ankita's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SAHU-01&layout=compact&theme=radical)
-
 ## :woman: About Me
 
 - 🔭 I’m currently working on [My Portfolio](https://sahu-01.github.io/My-Profile/)
@@ -45,6 +17,34 @@ const ankita = {
 - 📫 Contact me **[here](ankita.sahuof1@gmail.com)**
 
 - 📄 My Resume [Resume](https://drive.google.com/file/d/1oJV3DGVU3iyjvYJypstpuzVa9uf2wJbj/view?usp=sharing)
+
+<!---
+###  Know me better  
+
+<img align='right' src="https://media.giphy.com/media/UHcOaIi6nuCwhoGRPz/giphy.gif" width="230">
+
+
+```javascript
+const ankita = {
+  pronouns: "she" | "her",
+  code: [Javascript,C++,HTML,CSS,UX/UI,Python,React,Tailwind CSS,Bootstrap,Java,Machine Learning,Sass],
+  experience&techCommmunities: {
+                        x.Software Engineer Intern (Digital Product School,UnternehmerTUM,batch-15 & 16), x.Frontend Intern (Bitbaza.io)
+                        Ambassador: "Microsoft Learn Student Ambassador(Beta),
+                                     AngelHack,WomenTech Network"
+                      },
+ Motto: "To Bridge the rift between culture and Technology!"
+}
+```
+-->
+
+
+###  Check out my work!!
+
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=SAHU-01&theme=radical)](https://git.io/streak-stats)
+![Ankita's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SAHU-01&bg_color=17092e&color=9e4c98&line=ff428e&point=a8ffef&area=true&hide_border=true)
+![Ankita's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SAHU-01&layout=compact&theme=radical)
 
 ## 🤝 Connect
 
