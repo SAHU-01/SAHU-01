@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [Github](https://github.com/SAHU-01?tab=repositories)
 
-- 📝 I write articles on [Hashnode](https://hashnode.com/@SAHU-01)
+<!-- - 📝 I write articles on [Hashnode](https://hashnode.com/@SAHU-01)  -->
 
 - 💬 Ask me about **Front-end Web Development and UI/UX**
 
