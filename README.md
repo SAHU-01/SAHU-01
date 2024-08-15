@@ -46,6 +46,11 @@ const ankita = {
 ![Ankita's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SAHU-01&bg_color=17092e&color=9e4c98&line=ff428e&point=a8ffef&area=true&hide_border=true)
 ![Ankita's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SAHU-01&layout=compact&theme=radical)
 
+## Badges I've been awarded 🏆
+ <a href= "https://meshery.layer5.io/user/ff1f8398-e501-4bb2-817f-80edffd0d37b?tab=badges">
+    <img width="200px" height="260px" src = "https://badges.layer5.io/assets/badges/first-design/first-design.png" alt = "First Design" />
+  </a >
+
 ## 🤝 Connect
 
 [![Skill](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ankita-sahu-540920201/)
