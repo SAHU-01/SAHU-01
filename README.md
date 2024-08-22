@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **Front-end Web Development and UI/UX**
 
-- 📫 Contact me **[here](ankita.sahuof1@gmail.com)**
+<!-- - 📫 Contact me **[here](ankita.sahuof1@gmail.com)** -->
 
 <!-- - 📄 My Resume [Resume](https://drive.google.com/file/d/1oJV3DGVU3iyjvYJypstpuzVa9uf2wJbj/view?usp=sharing) -->
 
