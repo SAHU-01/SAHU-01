@@ -50,6 +50,9 @@ const ankita = {
  <a href= "https://meshery.layer5.io/user/ff1f8398-e501-4bb2-817f-80edffd0d37b?tab=badges">
     <img width="200px" height="260px" src = "https://badges.layer5.io/assets/badges/first-design/first-design.png" alt = "First Design" />
   </a >
+ <a href= "https://meshery.layer5.io/user/ff1f8398-e501-4bb2-817f-80edffd0d37b?tab=badges&badge=first-share" >
+    <img width="200px" height="260px" src = "https://badges.layer5.io/assets/badges/first-share/first-share.png" alt = "Sharing is Caring" />
+  </a >
 
 ## 🤝 Connect
 
