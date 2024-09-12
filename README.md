@@ -2,7 +2,7 @@
 
 ## :woman: About Me
 
-- 🔭 I’m currently working on [My Portfolio](https://sahu-01.github.io/My-Profile/)
+<!-- - 🔭 I’m currently working on [My Portfolio](https://sahu-01.github.io/My-Profile/) -->
 
 - 🌱 I’m currently polishing my **MERN Stack** skills
 
