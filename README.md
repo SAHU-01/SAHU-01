@@ -43,8 +43,7 @@ const ankita = {
 
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=SAHU-01&theme=radical)](https://git.io/streak-stats)
-![Ankita's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SAHU-01&bg_color=17092e&color=9e4c98&line=ff428e&point=a8ffef&area=true&hide_border=true)
-![Ankita's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SAHU-01&layout=compact&theme=radical)
+
 
 ## Badges I've been awarded 🏆
  <a href= "https://meshery.layer5.io/user/ff1f8398-e501-4bb2-817f-80edffd0d37b?tab=badges">
